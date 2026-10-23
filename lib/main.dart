@@ -24,40 +24,40 @@ class Student {
 // Hard-coded sample data (replace with your own names if you like).
 const List<Student> students = [
   Student(
-    name: 'Maria Santos',
+    name: 'Via Escobido',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'maria.santos@school.edu',
+    email: 'via.escobido@school.edu',
   ),
   Student(
-    name: 'Juan Dela Cruz',
+    name: 'Vannesa Recio',
     course: 'BS Computer Science',
     yearLevel: 3,
-    email: 'juan.delacruz@school.edu',
+    email: 'vannesa.recio@school.edu',
   ),
   Student(
-    name: 'Angela Reyes',
+    name: 'Djemnah Bagtasos',
     course: 'BS Information Systems',
     yearLevel: 1,
-    email: 'angela.reyes@school.edu',
+    email: 'djemnah.bagtasos@school.edu',
   ),
   Student(
-    name: 'Carlo Mendoza',
+    name: 'Julianna Paras',
     course: 'BS Computer Engineering',
     yearLevel: 4,
-    email: 'carlo.mendoza@school.edu',
+    email: 'julianna.paras@school.edu',
   ),
   Student(
-    name: 'Bianca Lim',
+    name: 'Asahley Ortiz',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'bianca.lim@school.edu',
+    email: 'asahley.ortiz@school.edu',
   ),
   Student(
-    name: 'Rafael Garcia',
+    name: 'Fannie Dumpa',
     course: 'BS Data Science',
     yearLevel: 3,
-    email: 'rafael.garcia@school.edu',
+    email: 'fannie.dumpa@school.edu',
   ),
 ];
 
