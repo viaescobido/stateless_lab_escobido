@@ -48,10 +48,10 @@ const List<Student> students = [
     email: 'julianna.paras@school.edu',
   ),
   Student(
-    name: 'Asahley Ortiz',
+    name: 'Ashley Ortiz',
     course: 'BS Information Technology',
     yearLevel: 2,
-    email: 'asahley.ortiz@school.edu',
+    email: 'ashley.ortiz@school.edu',
   ),
   Student(
     name: 'Fannie Dumpa',
