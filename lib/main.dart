@@ -53,12 +53,6 @@ const List<Student> students = [
     yearLevel: 2,
     email: 'ashley.ortiz@school.edu',
   ),
-  Student(
-    name: 'Fannie Dumpa',
-    course: 'BS Data Science',
-    yearLevel: 3,
-    email: 'fannie.dumpa@school.edu',
-  ),
 ];
 
 // ---------------------------------------------------------------------------
